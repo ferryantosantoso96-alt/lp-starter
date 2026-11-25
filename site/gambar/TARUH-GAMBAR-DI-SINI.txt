@@ -1,0 +1,3 @@
+Taruh foto produk, mockup, logo, dan screenshot testimoni asli di folder ini.
+Format yang disarankan: .webp atau .jpg, lebar maksimal 1200 piksel.
+File ini boleh dihapus.

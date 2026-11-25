@@ -1,0 +1,12 @@
+{
+  // Pengaturan Cloudflare: halaman diambil dari folder site/.
+  // "name" harus sama dengan nama Worker/proyek di dashboard Cloudflare.
+  "name": "landing-page-saya",
+  "compatibility_date": "2026-11-01",
+  // Nyalakan alamat gratis nama.akun.workers.dev dan link preview untuk branch lain.
+  "workers_dev": true,
+  "preview_urls": true,
+  "assets": {
+    "directory": "./site"
+  }
+}
